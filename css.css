@@ -1,0 +1,24 @@
+.footer-1{
+    background-color: black;
+    color: white;
+    padding: 35px;
+}
+.row {
+    align-items: center;
+    text-align: center;
+}
+.col-md-3{
+    align-items: center;
+    text-align: center;
+}
+ul,li{
+    list-style-type: none;
+    align-items: left;
+    
+}
+.col,li,i {
+    margin: 12px;
+}
+ul, li:hover{
+    cursor: pointer;
+}
